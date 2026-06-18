@@ -30,3 +30,7 @@ Este repositorio contiene el desarrollo de una aplicación web realizada en el m
 
 
 
+\## Estado del Proyecto
+
+\- Versión inicial del repositorio local configurada con éxito.
+
